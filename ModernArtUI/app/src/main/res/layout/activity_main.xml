@@ -1,0 +1,87 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#ff000000"
+    android:padding="0dp">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:weightSum="5"
+        android:layout_above="@+id/seekBar">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="3">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffff84ff"
+                android:touchscreenBlocksFocus="true"
+                android:layout_weight="1"
+                android:layout_marginBottom="5dp"
+                android:id="@+id/box1"></FrameLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ff16ffff"
+                android:layout_weight="1"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/box2"></FrameLayout>
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:layout_marginLeft="5dp">
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffae33ff"
+                android:touchscreenBlocksFocus="true"
+                android:layout_weight="1"
+                android:layout_marginBottom="5dp"
+                android:id="@+id/box3"></FrameLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffffff"
+                android:touchscreenBlocksFocus="true"
+                android:layout_weight="1"
+                android:layout_marginBottom="5dp"
+                android:id="@+id/whiteBox"></FrameLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ff2896ff"
+                android:layout_weight="1"
+                android:id="@+id/box4"></FrameLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+       <SeekBar
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/seekBar"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+           android:layout_margin="0dp"
+           android:layout_alignParentEnd="true" />
+
+
+
+</RelativeLayout>

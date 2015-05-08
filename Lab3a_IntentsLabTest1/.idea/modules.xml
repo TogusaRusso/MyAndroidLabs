@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab3a_IntentsLabTest1.iml" filepath="$PROJECT_DIR$/Lab3a_IntentsLabTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab3a_IntentsLab/lab3a_IntentsLab.iml" filepath="$PROJECT_DIR$/lab3a_IntentsLab/lab3a_IntentsLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab3a_IntentsLabTest/lab3a_IntentsLabTest.iml" filepath="$PROJECT_DIR$/lab3a_IntentsLabTest/lab3a_IntentsLabTest.iml" />
+    </modules>
+  </component>
+</project>
+
