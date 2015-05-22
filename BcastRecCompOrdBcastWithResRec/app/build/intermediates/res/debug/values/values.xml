@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/GitHub/MyAndroidLabs/BcastRecCompOrdBcastWithResRec/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">CompoundOrderedBroadcastWithResultReceiver</string>
+    <string name="broadcast_intent_string">Broadcast Intent</string>
+</resources>
