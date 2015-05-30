@@ -70,4 +70,4 @@
         android:layout_toRightOf="@+id/DateLabel" >
     </TextView>
 
-</RelativeLayout><!-- From: file:/D:/Programs/coursera-android-labs-master/Examples/Lab4_UILabs/app/src/main/res/layout/todo_item.xml -->
+</RelativeLayout><!-- From: file:/D:/GitHub/MyAndroidLabs/Lab4_UILabs/app/src/main/res/layout/todo_item.xml -->

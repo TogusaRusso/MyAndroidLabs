@@ -7,4 +7,4 @@
     android:text="@string/add_new_todo_item_string"
     android:textSize="24sp" >
 
-</TextView><!-- From: file:/D:/Programs/coursera-android-labs-master/Examples/Lab4_UILabs/app/src/main/res/layout/footer_view.xml -->
+</TextView><!-- From: file:/D:/GitHub/MyAndroidLabs/Lab4_UILabs/app/src/main/res/layout/footer_view.xml -->

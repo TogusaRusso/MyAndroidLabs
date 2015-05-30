@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/GitHub/MyAndroidLabs/GraphicsCanvasBubble/app/src/main/res/values/style.xml -->
+    <eat-comment/>
+    <color name="background_color">#FF444444</color>
+    <!-- From: file:/D:/GitHub/MyAndroidLabs/GraphicsCanvasBubble/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="image_height">200dp</dimen>
+    <!-- From: file:/D:/GitHub/MyAndroidLabs/GraphicsCanvasBubble/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">GraphicsCanvasBubble</string>
+    <string name="bubble_desc">Bubble</string>
+    <!-- From: file:/D:/GitHub/MyAndroidLabs/GraphicsCanvasBubble/app/src/main/res/values/style.xml -->
+    <eat-comment/>
+    <style name="CustomBackground" parent="android:Theme.Holo">
+        <item name="android:colorBackground">@color/background_color</item>
+    </style>
+</resources>
