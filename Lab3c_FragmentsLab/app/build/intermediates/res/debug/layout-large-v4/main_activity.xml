@@ -22,4 +22,4 @@
         class="course.labs.fragmentslab.FeedFragment"
         tools:layout="@layout/feed" />
 
-</LinearLayout><!-- From: file:/D:/Programs/coursera-android-labs-master/Examples/Lab3c_FragmentsLab/app/src/main/res/layout-large/main_activity.xml -->
+</LinearLayout><!-- From: file:/D:/GitHub/MyAndroidLabs/Lab3c_FragmentsLab/app/src/main/res/layout-large/main_activity.xml -->

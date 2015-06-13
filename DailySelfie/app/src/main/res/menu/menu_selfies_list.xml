@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".SelfiesList">
+    <item android:id="@+id/action_selfie"
+        android:title="Shot selfie"
+        android:icon="@drawable/ic_action_camera"
+        app:showAsAction="always"
+        />
+</menu>

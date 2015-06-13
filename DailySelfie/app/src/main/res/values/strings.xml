@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Daily Selfie</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_fullscreen">Fullscreen selfie</string>
+</resources>
